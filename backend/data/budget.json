@@ -1,0 +1,5 @@
+{
+  "monthly_budget": 58000,
+  "thresholds": { "warning": 75, "critical": 90 },
+  "team_budgets": { "Platform": 17000, "Data": 25000, "Payments": 9500, "Growth": 4500 }
+}
